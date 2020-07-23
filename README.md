@@ -1,5 +1,6 @@
 # AirPaint
-a python script that can draw on air
+a python script that can draw on air.
+
 requires opencv, numpy and the keyboard module
 
 # Setup
